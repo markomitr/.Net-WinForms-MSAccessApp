@@ -1,0 +1,15 @@
+D:\MarkoMsi\Rabota\Kalina\USAVendors\USAVendors\obj\Debug\USAVendors.exe
+D:\MarkoMsi\Rabota\Kalina\USAVendors\USAVendors\obj\Debug\USAVendors.pdb
+D:\MarkoMsi\Rabota\Kalina\USAVendors\USAVendors\bin\Debug\USAVendors.exe
+D:\MarkoMsi\Rabota\Kalina\USAVendors\USAVendors\bin\Debug\USAVendors.pdb
+D:\MarkoMsi\Rabota\Kalina\USAVendors\USAVendors\obj\Debug\USAVendors.csprojResolveAssemblyReference.cache
+D:\MarkoMsi\Rabota\Kalina\USAVendors\USAVendors\obj\Debug\USAVendors.AddCompany.resources
+D:\MarkoMsi\Rabota\Kalina\USAVendors\USAVendors\obj\Debug\USAVendors.AddProduct.resources
+D:\MarkoMsi\Rabota\Kalina\USAVendors\USAVendors\obj\Debug\USAVendors.AddProductsToCompany.resources
+D:\MarkoMsi\Rabota\Kalina\USAVendors\USAVendors\obj\Debug\USAVendors.MainForm.resources
+D:\MarkoMsi\Rabota\Kalina\USAVendors\USAVendors\obj\Debug\USAVendors.ProductGroup.resources
+D:\MarkoMsi\Rabota\Kalina\USAVendors\USAVendors\obj\Debug\USAVendors.Properties.Resources.resources
+D:\MarkoMsi\Rabota\Kalina\USAVendors\USAVendors\obj\Debug\USAVendors.Redica.resources
+D:\MarkoMsi\Rabota\Kalina\USAVendors\USAVendors\obj\Debug\USAVendors.RedPanel.resources
+D:\MarkoMsi\Rabota\Kalina\USAVendors\USAVendors\obj\Debug\USAVendors.searchControla.resources
+D:\MarkoMsi\Rabota\Kalina\USAVendors\USAVendors\obj\Debug\USAVendors.csproj.GenerateResource.Cache

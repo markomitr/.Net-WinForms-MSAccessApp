@@ -1,0 +1,48 @@
+C:\Documents and Settings\aaa\My Documents\Visual Studio 2005\Projects\USAVendors\USAVendors\bin\Debug\USAVendors.exe
+C:\Documents and Settings\aaa\My Documents\Visual Studio 2005\Projects\USAVendors\USAVendors\bin\Debug\USAVendors.pdb
+C:\Documents and Settings\aaa\My Documents\Visual Studio 2005\Projects\USAVendors\USAVendors\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aaa\My Documents\Visual Studio 2005\Projects\USAVendors\USAVendors\obj\Debug\USAVendors.Properties.Resources.resources
+C:\Documents and Settings\aaa\My Documents\Visual Studio 2005\Projects\USAVendors\USAVendors\obj\Debug\USAVendors.csproj.GenerateResource.Cache
+C:\Documents and Settings\aaa\My Documents\Visual Studio 2005\Projects\USAVendors\USAVendors\obj\Debug\USAVendors.exe
+C:\Documents and Settings\aaa\My Documents\Visual Studio 2005\Projects\USAVendors\USAVendors\obj\Debug\USAVendors.pdb
+C:\Documents and Settings\aaa\My Documents\Visual Studio 2005\Projects\USAVendors\USAVendors\obj\Debug\USAVendors.AddCompany.resources
+C:\Documents and Settings\aaa\My Documents\Visual Studio 2005\Projects\USAVendors\USAVendors\obj\Debug\USAVendors.AddProduct.resources
+C:\Documents and Settings\aaa\My Documents\Visual Studio 2005\Projects\USAVendors\USAVendors\obj\Debug\USAVendors.ProductGroup.resources
+C:\Documents and Settings\aaa\My Documents\Visual Studio 2005\Projects\USAVendors\USAVendors\obj\Debug\USAVendors.MainForm.resources
+C:\Documents and Settings\aaa\My Documents\Visual Studio 2005\Projects\USAVendors\USAVendors\bin\Release\USAVendors.exe
+C:\Documents and Settings\aaa\My Documents\Visual Studio 2005\Projects\USAVendors\USAVendors\bin\Release\USAVendors.pdb
+C:\Documents and Settings\aaa\My Documents\Visual Studio 2005\Projects\USAVendors\USAVendors\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\aaa\My Documents\Visual Studio 2005\Projects\USAVendors\USAVendors\obj\Release\USAVendors.AddCompany.resources
+C:\Documents and Settings\aaa\My Documents\Visual Studio 2005\Projects\USAVendors\USAVendors\obj\Release\USAVendors.AddProduct.resources
+C:\Documents and Settings\aaa\My Documents\Visual Studio 2005\Projects\USAVendors\USAVendors\obj\Release\USAVendors.MainForm.resources
+C:\Documents and Settings\aaa\My Documents\Visual Studio 2005\Projects\USAVendors\USAVendors\obj\Release\USAVendors.ProductGroup.resources
+C:\Documents and Settings\aaa\My Documents\Visual Studio 2005\Projects\USAVendors\USAVendors\obj\Release\USAVendors.Properties.Resources.resources
+C:\Documents and Settings\aaa\My Documents\Visual Studio 2005\Projects\USAVendors\USAVendors\obj\Release\USAVendors.csproj.GenerateResource.Cache
+C:\Documents and Settings\aaa\My Documents\Visual Studio 2005\Projects\USAVendors\USAVendors\obj\Release\USAVendors.exe
+C:\Documents and Settings\aaa\My Documents\Visual Studio 2005\Projects\USAVendors\USAVendors\obj\Release\USAVendors.pdb
+D:\Work\Visual Studio\USAVendors\USAVendors\obj\Debug\USAVendors.exe
+D:\Work\Visual Studio\USAVendors\USAVendors\obj\Debug\USAVendors.pdb
+D:\Work\Visual Studio\USAVendors\USAVendors\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Visual Studio\USAVendors\USAVendors\obj\Debug\USAVendors.AddCompany.resources
+D:\Work\Visual Studio\USAVendors\USAVendors\obj\Debug\USAVendors.AddProduct.resources
+D:\Work\Visual Studio\USAVendors\USAVendors\obj\Debug\USAVendors.MainForm.resources
+D:\Work\Visual Studio\USAVendors\USAVendors\obj\Debug\USAVendors.ProductGroup.resources
+D:\Work\Visual Studio\USAVendors\USAVendors\obj\Debug\USAVendors.Properties.Resources.resources
+D:\Work\Visual Studio\USAVendors\USAVendors\obj\Debug\USAVendors.csproj.GenerateResource.Cache
+D:\Work\Visual Studio\USAVendors\USAVendors\bin\Debug\USAVendors.exe
+D:\Work\Visual Studio\USAVendors\USAVendors\bin\Debug\USAVendors.pdb
+D:\Rabota\Kalina\USAVendors buli final database\USAVendors\obj\Debug\USAVendors.exe
+D:\Rabota\Kalina\USAVendors buli final database\USAVendors\obj\Debug\USAVendors.pdb
+D:\Rabota\Kalina\USAVendors buli final database\USAVendors\bin\Debug\USAVendors.exe
+D:\Rabota\Kalina\USAVendors buli final database\USAVendors\bin\Debug\USAVendors.pdb
+D:\Rabota\Kalina\USAVendors buli final database\USAVendors\obj\Debug\ResolveAssemblyReference.cache
+D:\Rabota\Kalina\USAVendors buli final database\USAVendors\obj\Debug\USAVendors.AddCompany.resources
+D:\Rabota\Kalina\USAVendors buli final database\USAVendors\obj\Debug\USAVendors.AddProduct.resources
+D:\Rabota\Kalina\USAVendors buli final database\USAVendors\obj\Debug\USAVendors.AddProductsToCompany.resources
+D:\Rabota\Kalina\USAVendors buli final database\USAVendors\obj\Debug\USAVendors.MainForm.resources
+D:\Rabota\Kalina\USAVendors buli final database\USAVendors\obj\Debug\USAVendors.ProductGroup.resources
+D:\Rabota\Kalina\USAVendors buli final database\USAVendors\obj\Debug\USAVendors.Properties.Resources.resources
+D:\Rabota\Kalina\USAVendors buli final database\USAVendors\obj\Debug\USAVendors.Redica.resources
+D:\Rabota\Kalina\USAVendors buli final database\USAVendors\obj\Debug\USAVendors.RedPanel.resources
+D:\Rabota\Kalina\USAVendors buli final database\USAVendors\obj\Debug\USAVendors.searchControla.resources
+D:\Rabota\Kalina\USAVendors buli final database\USAVendors\obj\Debug\USAVendors.csproj.GenerateResource.Cache

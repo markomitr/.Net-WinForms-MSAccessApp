@@ -1,0 +1,15 @@
+obj\Debug\USAVendors.exe
+obj\Debug\USAVendors.pdb
+bin\Debug\USAVendors.exe
+bin\Debug\USAVendors.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\USAVendors.AddCompany.resources
+obj\Debug\USAVendors.AddProduct.resources
+obj\Debug\USAVendors.MainForm.resources
+obj\Debug\USAVendors.ProductGroup.resources
+obj\Debug\USAVendors.Properties.Resources.resources
+obj\Debug\USAVendors.csproj.GenerateResource.Cache
+obj\Debug\USAVendors.AddProductsToCompany.resources
+obj\Debug\USAVendors.Redica.resources
+obj\Debug\USAVendors.RedPanel.resources
+obj\Debug\USAVendors.searchControla.resources
