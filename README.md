@@ -1,6 +1,8 @@
 # .Net-WinForms-MSAccessApp-2008
 .Net WinForms and MS Access application
 
+![Preview](https://github.com/markomitr/.Net-WinForms-MSAccessApp-2008/blob/master/Vendors_App.PNG)
+
 Application for orginizing vendors and their products. 
 
 WinForm and Microsoft Access application
