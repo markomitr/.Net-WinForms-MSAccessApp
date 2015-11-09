@@ -7,7 +7,9 @@ Application for orginizing vendors and their products.
 
 WinForm and Microsoft Access application
 
-Export to well defined and designed Excel file (The client loved this feature :) )
+Export to well defined and designed Excel file (The client loved this feature )
+
+Created installer package for the application.
 
 Toolset:
 .Net | C# | MS Access
